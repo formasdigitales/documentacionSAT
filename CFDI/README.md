@@ -108,10 +108,10 @@
     <summary><strong>006. Compra venta de divisas (Versión 1.0 Revisión A)</strong></summary>
     <p>Complemento para identificar las operaciones de compra y venta de divisas que realizan los centros cambiarios y las casas de cambio; al hacer mención expresa de que los comprobantes se expiden por la compra, o bien, por la venta de divisas.</p>
     <ul>        
-        <li><a href="" target="_blank">Estándar</a></li>
-        <li><a href="" target="_blank">Esquema (XSD)</a></li>
-        <li><a href="" target="_blank">Secuencia cadena original (XSLT)</a></li>
-        <li><a href="" target="_blank">Instructivo</a></li>
+        <li><a href="Complementos/006%20-%20Compra%20venta%20de%20divisas%201.0%20revA/ComplementoDivisas1.0.pdf" target="_blank">Estándar</a></li>
+        <li><a href="Complementos/006%20-%20Compra%20venta%20de%20divisas%201.0%20revA/divisas.xsd" target="_blank">Esquema (XSD)</a></li>
+        <li><a href="Complementos/006%20-%20Compra%20venta%20de%20divisas%201.0%20revA/divisas.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
+        <li><a href="Complementos/006%20-%20Compra%20venta%20de%20divisas%201.0%20revA/Instructivo+para+generar+un+CFDI+Divisas.pdf" target="_blank">Instructivo</a></li>
     </ul>
 </details></br>
 
@@ -120,11 +120,11 @@
     <summary><strong>007. Consumo de combustibles (Versión 1.1 revisión B)</strong></summary>
     <p>Complemento para integrar al Comprobante Fiscal Digital por Internet (CFDI) la información de consumo de combustibles por monedero electrónico.</p>
     <ul>        
-        <li><a href="" target="_blank">Estándar</a></li>
-        <li><a href="" target="_blank">Esquema (XSD)</a></li>
-        <li><a href="" target="_blank">Secuencia cadena original (XSLT)</a></li>
-        <li><a href="" target="_blank">Catálogos (XLSX)</a></li>
-        <li><a href="" target="_blank">Esquema de catálogos (XSD)</a></li>
+        <li><a href="Complementos/007%20-%20Consumo%20de%20combustibles%201.1%20revB/Estand_Combustible11+28122021.pdf" target="_blank">Estándar</a></li>
+        <li><a href="Complementos/007%20-%20Consumo%20de%20combustibles%201.1%20revB/consumodeCombustibles11.xsd" target="_blank">Esquema (XSD)</a></li>
+        <li><a href="Complementos/007%20-%20Consumo%20de%20combustibles%201.1%20revB/consumodeCombustibles11.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
+        <li><a href="Complementos/007%20-%20Consumo%20de%20combustibles%201.1%20revB/CatCombustibles11.xls" target="_blank">Catálogos (XLSX)</a></li>
+        <li><a href="Complementos/007%20-%20Consumo%20de%20combustibles%201.1%20revB/catCombustible.xsd" target="_blank">Esquema de catálogos (XSD)</a></li>
     </ul>
 </details></br>
 
@@ -133,10 +133,10 @@
     <summary><strong>008. Donatarias (Versión 1.1 Revisión A)</strong></summary>
     <p>Complemento para incluir la información requerida por el Servicio de Administración Tributaria a las organizaciones civiles o fideicomisos autorizados para recibir donativos, que permite hacer deducibles los Comprobantes Fiscales Digitales por Internet (CFDI) a los donantes.</p>
     <ul>        
-        <li><a href="" target="_blank">Estándar</a></li>
-        <li><a href="" target="_blank">Esquema (XSD)</a></li>
-        <li><a href="" target="_blank">Secuencia cadena original (XSLT)</a></li>
-        <li><a href="" target="_blank">Material de apoyo para elaborar una factura de donativos</a></li>
+        <li><a href="Complementos/008%20-%20Donatarias%201.0%20revA/ComplementodonativosV1.1.pdf" target="_blank">Estándar</a></li>
+        <li><a href="Complementos/008%20-%20Donatarias%201.0%20revA/donat11.xsd" target="_blank">Esquema (XSD)</a></li>
+        <li><a href="Complementos/008%20-%20Donatarias%201.0%20revA/donat11.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
+        <li><a href="Complementos/008%20-%20Donatarias%201.0%20revA/Factura+Donativos+y+Esquemas+de+Cancelación+2024.pdf" target="_blank">Material de apoyo para elaborar una factura de donativos</a></li>
         <li><a href="http://omawww.sat.gob.mx/factura/Paginas/emite_organismospublicos.htm" target="_blank">Organismos públicos</a></li>
     </ul>
 </details></br>
@@ -146,12 +146,12 @@
     <summary><strong>009. Estado de cuenta de combustibles para monederos electrónicos (Versión 1.2 revisión B)</strong></summary>
     <p>Complemento para integrar al Comprobante Fiscal Digital por Internet (CFDI) la información aplicable al estado de cuenta emitido por un prestador de servicios de monedero electrónico.</p>
     <ul>        
-        <li><a href="" target="_blank">Estándar</a></li>
-        <li><a href="" target="_blank">Esquema (XSD)</a></li>
-        <li><a href="" target="_blank">Secuencia cadena original (XSLT)</a></li>
-        <li><a href="" target="_blank">Matriz de Errores</a></li>
-        <li><a href="" target="_blank">Catálogos (XLSX)</a></li>
-        <li><a href="" target="_blank">Esquema de catálogos (XSD)</a></li>
+        <li><a href="Complementos/009%20-%20Estado%20de%20cuenta%20de%20combustibles%20para%20monederos%20electrónicos%201.2%20revB/Estand_Edo_Cuenta_Com12_B.pdf" target="_blank">Estándar</a></li>
+        <li><a href="Complementos/009%20-%20Estado%20de%20cuenta%20de%20combustibles%20para%20monederos%20electrónicos%201.2%20revB/ecc12.xsd" target="_blank">Esquema (XSD)</a></li>
+        <li><a href="Complementos/009%20-%20Estado%20de%20cuenta%20de%20combustibles%20para%20monederos%20electrónicos%201.2%20revB/ecc12.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
+        <li><a href="Complementos/009%20-%20Estado%20de%20cuenta%20de%20combustibles%20para%20monederos%20electrónicos%201.2%20revB/Matriz_errores_ECC12+(B)40.xls" target="_blank">Matriz de Errores</a></li>
+        <li><a href="Complementos/009%20-%20Estado%20de%20cuenta%20de%20combustibles%20para%20monederos%20electrónicos%201.2%20revB/Catalogo_Combustibles12.xls" target="_blank">Catálogos (XLSX)</a></li>
+        <li><a href="Complementos/009%20-%20Estado%20de%20cuenta%20de%20combustibles%20para%20monederos%20electrónicos%201.2%20revB/catCombustible.xsd" target="_blank">Esquema de catálogos (XSD)</a></li>
         <li><a href="https://www.sat.gob.mx/portal/public/tramites/monederos-electronicos" target="_blank">Padrón de emisores de monederos electrónicos de vales de despensa autorizados</a></li>
     </ul>
 </details></br>
@@ -163,22 +163,22 @@
     <ul>        
         <li>Complemento para Gastos del consorcio derivados de la ejecución de un contrato de exploración o extracción de hidrocarburos
             <ul>
-                <li><a href="" target="_blank">Estándar</a></li>
-                <li><a href="" target="_blank">Esquema (XSD)</a></li>
-                <li><a href="" target="_blank">Secuencia cadena original (XSLT)</a></li>
-                <li><a href="" target="_blank">Matriz de Errores</a></li>
-                <li><a href="" target="_blank">Catálogos (XLSX)</a></li>
-                <li><a href="" target="_blank">Esquema de catálogos (XSD)</a></li>
+                <li><a href="Complementos/010%20-%20Hidrocarburos%201.0%20revA/Gastos/Estructura+Gastos+Hidrocarburos10_A.pdf" target="_blank">Estándar</a></li>
+                <li><a href="Complementos/010%20-%20Hidrocarburos%201.0%20revA/Gastos/GastosHidrocarburos10.xsd" target="_blank">Esquema (XSD)</a></li>
+                <li><a href="Complementos/010%20-%20Hidrocarburos%201.0%20revA/Gastos/GastosHidrocarburos10.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
+                <li><a href="Complementos/010%20-%20Hidrocarburos%201.0%20revA/Gastos/Matriz_Apoyo_A20_40_GCEH.XLS" target="_blank">Matriz de Errores</a></li>
+                <li><a href="Complementos/010%20-%20Hidrocarburos%201.0%20revA/Gastos/CatGastosHidrocarburos.xls" target="_blank">Catálogos (XLSX)</a></li>
+                <li><a href="Complementos/010%20-%20Hidrocarburos%201.0%20revA/Gastos/catHidrocarburos.xsd" target="_blank">Esquema de catálogos (XSD)</a></li>
             </ul>
         </li>
         <li>Complemento para Ingresos atribuibles a los integrantes de un consorcio derivados de la contraprestación de un contrato de exploración o extracción de hidrocarburos
             <ul>
-                <li><a href="" target="_blank">Estándar</a></li>
-                <li><a href="" target="_blank">Esquema (XSD)</a></li>
-                <li><a href="" target="_blank">Secuencia cadena original (XSLT)</a></li>
-                <li><a href="" target="_blank">Matriz de Errores</a></li>
-                <li><a href="" target="_blank">Catálogos (XLSX)</a></li>
-                <li><a href="" target="_blank">Esquema de catálogos (XSD)</a></li>                
+                <li><a href="Complementos/010%20-%20Hidrocarburos%201.0%20revA/Ingresos/Estructura+Ingresos+Hidrocarburos10_A.pdf" target="_blank">Estándar</a></li>
+                <li><a href="Complementos/010%20-%20Hidrocarburos%201.0%20revA/Ingresos/IngresosHidrocarburos.xsd" target="_blank">Esquema (XSD)</a></li>
+                <li><a href="Complementos/010%20-%20Hidrocarburos%201.0%20revA/Ingresos/IngresosHidrocarburos.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
+                <li><a href="Complementos/010%20-%20Hidrocarburos%201.0%20revA/Ingresos/Matriz_Apoyo_A20_40_IEEH.XLS" target="_blank">Matriz de Errores</a></li>
+                <li><a href="Complementos/010%20-%20Hidrocarburos%201.0%20revA/Ingresos/CatIngresosHidrocarburos.xls" target="_blank">Catálogos (XLSX)</a></li>
+                <li><a href="Complementos/010%20-%20Hidrocarburos%201.0%20revA/Ingresos/catHidrocarburos.xsd" target="_blank">Esquema de catálogos (XSD)</a></li>                
             </ul>
         </li>       
     </ul>
@@ -189,12 +189,11 @@
     <summary><strong>011. INE (Versión 1.1 Revisión B)</strong></summary>
     <p>Complemento para incluir al Comprobante Fiscal Digital por Internet (CFDI) los datos que identifiquen el tipo de proceso al que van dirigidos los gastos que realizan los partidos o las Asociaciones Civiles.</p>
     <ul>        
-        <li><a href="" target="_blank">Estándar</a></li>
-        <li><a href="" target="_blank">Esquema (XSD)</a></li>
-        <li><a href="" target="_blank">Secuencia cadena original (XSLT)</a></li>
-        <li><a href="" target="_blank">Catálogos (XLSX)</a></li>
-        <li><a href="" target="_blank">Esquema de catálogos (XSD)</a></li>
-        <li><a href="" target="_blank">Matriz de Errores</a></li>
+        <li><a href="Complementos/011%20-%20INE%201.0%20revB/Complemento.INE.1.1.Actualizado.pdf" target="_blank">Estándar</a></li>
+        <li><a href="Complementos/011%20-%20INE%201.0%20revB/ine11.xsd" target="_blank">Esquema (XSD)</a></li>
+        <li><a href="Complementos/011%20-%20INE%201.0%20revB/ine11.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
+        <li><a href="Complementos/011%20-%20INE%201.0%20revB/Catalogos,0.xls" target="_blank">Catálogos (XLS)</a></li>
+        <li><a href="Complementos/011%20-%20INE%201.0%20revB/MatrizdeerroresINE11.xls" target="_blank">Matriz de Errores (XLS)</a></li>
     </ul>
 </details></br>
 
@@ -203,9 +202,9 @@
     <summary><strong>012. Leyendas fiscales (Versión 1.0 Revisión A)</strong></summary>
     <p>Complemento para incluir leyendas previstas en disposiciones fiscales, distintas a las contenidas en el estándar de Comprobante Fiscal Digital por Internet (CFDI).</p>
     <ul>        
-        <li><a href="" target="_blank">Estándar</a></li>
-        <li><a href="" target="_blank">Esquema (XSD)</a></li>
-        <li><a href="" target="_blank">Secuencia cadena original (XSLT)</a></li>
+        <li><a href="Complementos/012%20-%20Leyendas%20fiscales%201.0%20revA/leyendasFisc.pdf" target="_blank">Estándar</a></li>
+        <li><a href="Complementos/012%20-%20Leyendas%20fiscales%201.0%20revA/leyendasFisc.xsd" target="_blank">Esquema (XSD)</a></li>
+        <li><a href="Complementos/012%20-%20Leyendas%20fiscales%201.0%20revA/leyendasFisc.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
     </ul>
 </details></br>
 
@@ -214,10 +213,10 @@
     <summary><strong>013. Notarios públicos (Versión 1.0 Revisión A)</strong></summary>
     <p>Complemento para incluir al Comprobante Fiscal Digital por Internet (CFDI) información sobre el manejo de la enajenación de bienes inmuebles o servidumbres de paso con indemnización o contraprestación en una sola exhibición.</p>
     <ul>        
-        <li><a href="" target="_blank">Estándar</a></li>
-        <li><a href="" target="_blank">Esquema (XSD)</a></li>
-        <li><a href="" target="_blank">Secuencia cadena original (XSLT)</a></li>
-        <li><a href="" target="_blank">Catálogos</a></li>
+        <li><a href="Complementos/013%20-%20Notarios%20públicos%201.0%20revA/notariospublicos.pdf" target="_blank">Estándar</a></li>
+        <li><a href="Complementos/013%20-%20Notarios%20públicos%201.0%20revA/notariospublicos.xsd" target="_blank">Esquema (XSD)</a></li>
+        <li><a href="Complementos/013%20-%20Notarios%20públicos%201.0%20revA/notariospublicos.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
+        <li><a href="Complementos/013%20-%20Notarios%20públicos%201.0%20revA/CatalogoComplementoNotarios.pdf" target="_blank">Catálogos</a></li>
     </ul>
 </details></br>
 
@@ -226,10 +225,10 @@
     <summary><strong>014. Obras de arte plásticas y antigüedades</strong></summary>
     <p>Complemento para incluir al Comprobante Fiscal Digital por Internet (CFDI) la información sobre el manejo de la enajenación de obras de artes plásticas y antigüedades.</p>
     <ul>        
-        <li><a href="" target="_blank">Estándar</a></li>
-        <li><a href="" target="_blank">Esquema (XSD)</a></li>
-        <li><a href="" target="_blank">Secuencia cadena original (XSLT)</a></li>
-        <li><a href="" target="_blank">Catálogos</a></li>
+        <li><a href="Complementos/014%20-%20Obras%20de%20arte%20plásticas%20y%20antigüedades%201.0%20revA/obrasarteantiguedades.pdf" target="_blank">Estándar</a></li>
+        <li><a href="Complementos/014%20-%20Obras%20de%20arte%20plásticas%20y%20antigüedades%201.0%20revA/obrasarteantiguedades.xsd" target="_blank">Esquema (XSD)</a></li>
+        <li><a href="Complementos/014%20-%20Obras%20de%20arte%20plásticas%20y%20antigüedades%201.0%20revA/obrasarteantiguedades.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
+        <li><a href="Complementos/014%20-%20Obras%20de%20arte%20plásticas%20y%20antigüedades%201.0%20revA/Catalogos_complemento_obras_arte.pdf" target="_blank">Catálogos</a></li>
     </ul>
 </details></br>
 
@@ -238,9 +237,9 @@
     <summary><strong>015. Otros derechos e impuestos (Versión 1.0 Revisión A)</strong></summary>
     <p>Complemento para incluir al Comprobante Fiscal Digital por Internet (CFDI) los impuestos locales.</p>
     <ul>        
-        <li><a href="" target="_blank">Estándar</a></li>
-        <li><a href="" target="_blank">Esquema (XSD)</a></li>
-        <li><a href="" target="_blank">Secuencia cadena original (XSLT)</a></li>
+        <li><a href="Complementos/015%20-%20Otros%20derechos%20e%20impuestos%201.0%20revA/EstandarImpuestolocal.pdf" target="_blank">Estándar</a></li>
+        <li><a href="Complementos/015%20-%20Otros%20derechos%20e%20impuestos%201.0%20revA/implocal.xsd" target="_blank">Esquema (XSD)</a></li>
+        <li><a href="Complementos/015%20-%20Otros%20derechos%20e%20impuestos%201.0%20revA/implocal.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
     </ul>
 </details></br>
 
@@ -249,9 +248,9 @@
     <summary><strong>016. Pago en especie (Versión 1.0 Revisión A)</strong></summary>
     <p>Complemento para la expedición de Comprobantes Fiscales Digitales por Internet (CFDI) por la donación en la facilidad fiscal de Pago en especie.</p>
     <ul>        
-        <li><a href="" target="_blank">Estándar</a></li>
-        <li><a href="" target="_blank">Esquema (XSD)</a></li>
-        <li><a href="" target="_blank">Secuencia cadena original (XSLT)</a></li>
+        <li><a href="Complementos/016%20-%20Pago%20en%20especie%201.0%20revA/pagoenespecie.pdf" target="_blank">Estándar</a></li>
+        <li><a href="Complementos/016%20-%20Pago%20en%20especie%201.0%20revA/pagoenespecie.xsd" target="_blank">Esquema (XSD)</a></li>
+        <li><a href="Complementos/016%20-%20Pago%20en%20especie%201.0%20revA/pagoenespecie.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
     </ul>
 </details></br>
 
@@ -260,9 +259,9 @@
     <summary><strong>017. Persona física integrante de coordinado (Versión 1.0 Revisión A)</strong></summary>
     <p>Complemento para incorporar al Comprobante Fiscal Digital por Internet (CFDI) los datos de identificación del vehículo que corresponda a personas físicas integrantes de coordinados que opten por pagar el impuesto individualmente, de conformidad con lo establecido por el artículo 83, séptimo párrafo de la Ley del Impuesto sobre la Renta.</p>
     <ul>        
-        <li><a href="" target="_blank">Estándar</a></li>
-        <li><a href="" target="_blank">Esquema (XSD)</a></li>
-        <li><a href="" target="_blank">Secuencia cadena original (XSLT)</a></li>
+        <li><a href="Complementos/017%20-%20Persona%20física%20integrante%20de%20coordinado%201.0%20revA/pfic.pdf" target="_blank">Estándar</a></li>
+        <li><a href="Complementos/017%20-%20Persona%20física%20integrante%20de%20coordinado%201.0%20revA/pfic.xsd" target="_blank">Esquema (XSD)</a></li>
+        <li><a href="Complementos/017%20-%20Persona%20física%20integrante%20de%20coordinado%201.0%20revA/pfic.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
     </ul>
 </details></br>
 
@@ -271,13 +270,13 @@
     <summary><strong>018. Recepción de pagos (Versión 2.0 Revisión B)</strong></summary>
     <p>Complemento para el Comprobante Fiscal Digital por Internet (CFDI) para registrar información sobre la recepción de pagos. El emisor de este complemento para recepción de pagos debe ser quien las leyes le obliguen a expedir comprobantes por los actos o actividades que realicen, por los ingresos que se perciban o por las retenciones de contribuciones que efectúen.</p>
     <ul>        
-        <li><a href="" target="_blank">Estándar</a></li>
-        <li><a href="" target="_blank">Esquema (XSD)</a></li>
-        <li><a href="" target="_blank">Secuencia cadena original (XSLT)</a></li>
-        <li><a href="" target="_blank">Catálogos (XLS)</a></li>
-        <li><a href="" target="_blank">Esquema de catálogos (XSD)</a></li>
-        <li><a href="" target="_blank">Matriz de errores (XLS)</a></li>
-        <li><a href="" target="_blank">Guía de llenado (PDF)</a></li>
+        <li><a href="Complementos/018%20-%20Recepción%20de%20pagos/Version%202.0%20Revision%20B/Complemento_de_Pagos20_RevB.pdf" target="_blank">Estándar</a></li>
+        <li><a href="Complementos/018%20-%20Recepción%20de%20pagos/Version%202.0%20Revision%20B/Pagos20.xsd" target="_blank">Esquema (XSD)</a></li>
+        <li><a href="Complementos/018%20-%20Recepción%20de%20pagos/Version%202.0%20Revision%20B/Pagos20.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
+        <li><a href="Complementos/018%20-%20Recepción%20de%20pagos/Version%202.0%20Revision%20B/catPagos.xls" target="_blank">Catálogos (XLS)</a></li>
+        <li><a href="Complementos/018%20-%20Recepción%20de%20pagos/Version%202.0%20Revision%20B/catPagos.xsd" target="_blank">Esquema de catálogos (XSD)</a></li>
+        <li><a href="Complementos/018%20-%20Recepción%20de%20pagos/Version%202.0%20Revision%20B/MatrizDeErrores_CRP_V20_RevB.xls" target="_blank">Matriz de errores (XLS)</a></li>
+        <li><a href="Complementos/018%20-%20Recepción%20de%20pagos/Version%202.0%20Revision%20B/Guia_llenado_pagos.pdf" target="_blank">Guía de llenado (PDF)</a></li>
     </ul>
 </details></br>
 
@@ -286,13 +285,13 @@
     <summary><strong>019. Recibo de pago de nómina (Versión 1.2 Revisión D)</strong></summary>
     <p>Complemento para incorporar al Comprobante Fiscal Digital por Internet (CFDI) la información que ampara conceptos de ingresos por salarios, la prestación de un servicio personal subordinado o conceptos asimilados a salarios (Nómina).</p>
     <ul>        
-        <li><a href="" target="_blank">Estándar</a></li>
-        <li><a href="" target="_blank">Esquema (XSD)</a></li>
-        <li><a href="" target="_blank">Secuencia cadena original (XSLT)</a></li>
-        <li><a href="" target="_blank">Catálogos (XLSX)</a></li>
-        <li><a href="" target="_blank">Esquema de catálogos (XSD)</a></li>
-        <li><a href="" target="_blank">Matriz de errores (XLS)</a></li>
-        <li><a href="" target="_blank">Guía de llenado (PDF)</a></li>
+        <li><a href="Complementos/019%20-%20Recibo%20de%20pago%20de%20nómina/Version%201.2%20Revision%20D/Estandar_nomina12_21022025_a1e0544e71.pdf" target="_blank">Estándar</a></li>
+        <li><a href="Complementos/019%20-%20Recibo%20de%20pago%20de%20nómina/Version%201.2%20Revision%20D/nomina12.xsd" target="_blank">Esquema (XSD)</a></li>
+        <li><a href="Complementos/019%20-%20Recibo%20de%20pago%20de%20nómina/Version%201.2%20Revision%20D/nomina12.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
+        <li><a href="Complementos/019%20-%20Recibo%20de%20pago%20de%20nómina/Version%201.2%20Revision%20D/cat_Nomina_b090dfb838.xls" target="_blank">Catálogos (XLS)</a></li>
+        <li><a href="Complementos/019%20-%20Recibo%20de%20pago%20de%20nómina/Version%201.2%20Revision%20D/catNomina.xsd" target="_blank">Esquema de catálogos (XSD)</a></li>
+        <li><a href="Complementos/019%20-%20Recibo%20de%20pago%20de%20nómina/Version%201.2%20Revision%20D/21022025_Matriz_Errores_Nomina_v12_Rev_D_d2be64697b.xls" target="_blank">Matriz de errores (XLS)</a></li>
+        <li><a href="Complementos/019%20-%20Recibo%20de%20pago%20de%20nómina/Version%201.2%20Revision%20D/Guia_llenado_Nomina.pdf" target="_blank">Guía de llenado (PDF)</a></li>
     </ul>
 </details></br>
 
@@ -301,10 +300,10 @@
     <summary><strong>020. Renovación y sustitución de vehículos</strong></summary>
     <p>Complemento para incorporar la información relativa a los estímulos por la renovación del parque vehicular del autotransporte y por el que se otorgan medidas para la sustitución de vehículos de autotransporte de pasaje y carga.</p>
     <ul>        
-        <li><a href="" target="_blank">Estándar</a></li>
-        <li><a href="" target="_blank">Esquema (XSD)</a></li>
-        <li><a href="" target="_blank">Secuencia cadena original (XSLT)</a></li>
-        <li><a href="" target="_blank">Catálogos</a></li>
+        <li><a href="Complementos/020%20-%20Renovación%20y%20sustitución%20de%20vehículos%201.0%20revA/renovacionysustitucionvehiculos.pdf" target="_blank">Estándar</a></li>
+        <li><a href="Complementos/020%20-%20Renovación%20y%20sustitución%20de%20vehículos%201.0%20revA/renovacionysustitucionvehiculos.xsd" target="_blank">Esquema (XSD)</a></li>
+        <li><a href="Complementos/020%20-%20Renovación%20y%20sustitución%20de%20vehículos%201.0%20revA/renovacionysustitucionvehiculos.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
+        <li><a href="Complementos/020%20-%20Renovación%20y%20sustitución%20de%20vehículos%201.0%20revA/Catalogo_ComplementoRenovacion_y_Sustitucion,0.pdf" target="_blank">Catálogos</a></li>
     </ul>
 </details></br>
 
@@ -313,9 +312,9 @@
     <summary><strong>021. Sector de ventas al detalle (Detallista) (Versión 1.3.1 Revisión A)</strong></summary>
     <p>Complemento para la emisión y recepción de comprobantes fiscales digitales en el sector Retail.</p>
     <ul>        
-        <li><a href="" target="_blank">Estándar</a></li>
-        <li><a href="" target="_blank">Esquema (XSD)</a></li>
-        <li><a href="" target="_blank">Secuencia cadena original (XSLT)</a></li>
+        <li><a href="Complementos/021%20-%20(Detallista)%20Sector%20de%20ventas%20al%20detalle%201.3.1%20revA/Complementoventasadetalle.pdf" target="_blank">Estándar</a></li>
+        <li><a href="Complementos/021%20-%20(Detallista)%20Sector%20de%20ventas%20al%20detalle%201.3.1%20revA/detallista.xsd" target="_blank">Esquema (XSD)</a></li>
+        <li><a href="Complementos/021%20-%20(Detallista)%20Sector%20de%20ventas%20al%20detalle%201.3.1%20revA/detallista.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
     </ul>
 </details></br>
 
@@ -324,10 +323,10 @@
     <summary><strong>022. Servicios parciales de construcción (Versión 1.0 Revisión A)</strong></summary>
     <p>Complemento para incorporar información de servicios parciales de construcción de inmuebles destinados a casa habitación.</p>
     <ul>        
-        <li><a href="" target="_blank">Estándar</a></li>
-        <li><a href="" target="_blank">Esquema (XSD)</a></li>
-        <li><a href="" target="_blank">Secuencia cadena original (XSLT)</a></li>
-        <li><a href="" target="_blank">Catálogos</a></li>
+        <li><a href="Complementos/022%20-%20Servicios%20parciales%20de%20construcción%201.0%20revA/ServiciosParcialesdeConstruccion.pdf" target="_blank">Estándar</a></li>
+        <li><a href="Complementos/022%20-%20Servicios%20parciales%20de%20construcción%201.0%20revA/servicioparcialconstruccion.xsd" target="_blank">Esquema (XSD)</a></li>
+        <li><a href="Complementos/022%20-%20Servicios%20parciales%20de%20construcción%201.0%20revA/servicioparcialconstruccion.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
+        <li><a href="Complementos/022%20-%20Servicios%20parciales%20de%20construcción%201.0%20revA/0907.AGSC.ACGSTME.PD.CatalogoEntidadesFederativas,0.pdf" target="_blank">Catálogos</a></li>
     </ul>
 </details></br>
 
@@ -336,9 +335,9 @@
     <summary><strong>023. Timbre fiscal digital (TFD) (Versión 1.1)</strong></summary>
     <p>Complemento que permite incluir información adicional del uso regulado por la autoridad y que esta se encuentre protegida por el sello digital en la factura, acredita la validez y certificación de una factura generada por el proveedor de certificación de CFDI, una vez timbrado el documento.</p>
     <ul>        
-        <li><a href="" target="_blank">Estándar</a></li>
-        <li><a href="" target="_blank">Esquema (XSD)</a></li>
-        <li><a href="" target="_blank">Secuencia cadena original (XSLT)</a></li>
+        <li><a href="Complementos/023%20-%20Timbre%20fiscal%20digital%20(TFD)/Version%201.1/Anexo20_2022.pdf" target="_blank">Estándar</a></li>
+        <li><a href="Complementos/023%20-%20Timbre%20fiscal%20digital%20(TFD)/Version%201.1/TimbreFiscalDigitalv11.xsd" target="_blank">Esquema (XSD)</a></li>
+        <li><a href="Complementos/023%20-%20Timbre%20fiscal%20digital%20(TFD)/Version%201.1/cadenaoriginal_TFD_1_1.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
     </ul>
 </details></br>
 
@@ -347,9 +346,9 @@
     <summary><strong>024. Turista pasajero extranjero (Versión 1.0 revisión A)</strong></summary>
     <p>Complemento para integrar al Comprobante Fiscal Digital por Internet (CFDI) información sobre del manejo de datos de Turista pasajero extranjero.</p>
     <ul>        
-        <li><a href="" target="_blank">Estándar</a></li>
-        <li><a href="" target="_blank">Esquema (XSD)</a></li>
-        <li><a href="" target="_blank">Secuencia cadena original (XSLT)</a></li>
+        <li><a href="Complementos/024%20-%20Turista%20pasajero%20extranjero%201.0%20revA/ComplementoTuristaPasajeroExtranjero1.0.pdf" target="_blank">Estándar</a></li>
+        <li><a href="Complementos/024%20-%20Turista%20pasajero%20extranjero%201.0%20revA/TuristaPasajeroExtranjero.xsd" target="_blank">Esquema (XSD)</a></li>
+        <li><a href="Complementos/024%20-%20Turista%20pasajero%20extranjero%201.0%20revA/TuristaPasajeroExtranjero.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
     </ul>
 </details></br>
 
@@ -358,9 +357,9 @@
     <summary><strong>025. Vales de despensa (Versión 1.0 Revisión A)</strong></summary>
     <p>Complemento para integrar al Comprobante Fiscal Digital por Internet (CFDI) la información emitida por un prestador de servicios de monedero electrónico de vales de despensa.</p>
     <ul>        
-        <li><a href="" target="_blank">Estándar</a></li>
-        <li><a href="" target="_blank">Esquema (XSD)</a></li>
-        <li><a href="" target="_blank">Secuencia cadena original (XSLT)</a></li>
+        <li><a href="Complementos/025%20-%20Vales%20de%20despensa%201.0%20revA/valesdespensa.pdf" target="_blank">Estándar</a></li>
+        <li><a href="Complementos/025%20-%20Vales%20de%20despensa%201.0%20revA/valesdedespensa.xsd" target="_blank">Esquema (XSD)</a></li>
+        <li><a href="Complementos/025%20-%20Vales%20de%20despensa%201.0%20revA/valesdedespensa.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
         <li><a href="https://www.sat.gob.mx/portal/public/tramites/monederos-electronicos" target="_blank">Padrón de emisores de monederos electrónicos de vales de despensa autorizados</a></li>
     </ul>
 </details></br>
@@ -370,9 +369,9 @@
     <summary><strong>026. Vehículos usados (Versión 1.0)</strong></summary>
     <p>Complemento para incorporar la información de las operaciones de los contribuyentes que enajenen vehículos nuevos a personas físicas que no tributen en los términos de las Secciones I y II del Capítulo II del Título IV de la ley del ISR, y que reciban en contraprestación como resultados de esa enajenación un vehículo usado y dinero.</p>
     <ul>        
-        <li><a href="" target="_blank">Estándar</a></li>
-        <li><a href="" target="_blank">Esquema (XSD)</a></li>
-        <li><a href="" target="_blank">Secuencia cadena original (XSLT)</a></li>
+        <li><a href="Complementos/026%20-%20Vehículos%20usados%201.0/Vehiculousado.pdf" target="_blank">Estándar</a></li>
+        <li><a href="Complementos/026%20-%20Vehículos%20usados%201.0/vehiculousado.xsd" target="_blank">Esquema (XSD)</a></li>
+        <li><a href="Complementos/026%20-%20Vehículos%20usados%201.0/vehiculousado.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
     </ul>
 </details></br>
 
