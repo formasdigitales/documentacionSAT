@@ -10,9 +10,9 @@
 |[Estándar (PDF)](Version%204.0/Anexo20_2022.pdf)|13/01/2022 (Versión publicada en el DOF)|
 |[Esquema (XSD)](Version%204.0/cfdv40.xsd) | 04/06/2024|
 |[Secuencia de cadena original (XSLT)](Version%204.0/cadenaoriginal_4_0.xslt)| 17/06/2024|
-|[Patrón de datos (XSD)](Version%204.0/)| 22/04/2024|
+|[Patrón de datos (XSD)](Version%204.0/tdCFDI.xsd)| 22/04/2024|
 |[Catálogo de datos (XSD)](Version%204.0/catCFDI.xsd)| 13/12/2024|
-|[Catálogos (XLS)](Version%204.0/tdCFDI.xsd)| 09/04/2025|
+|[Catálogos (XLS comprimido)](Version%204.0/catCFDI_V_4_20250424.zip)| 24/04/2025|
 |[Matriz de errores (XLS)](Version%204.0/Matriz%20de%20Errores/MatrizDeErrores_CFDI_v40_20241213.xls)| 13/12/2024|
 |[Preguntas frecuentes](Version%204.0/Preguntas%20frecuentes/PregFrecCFDIVer4_0.pdf)|08/03/2023|
 
