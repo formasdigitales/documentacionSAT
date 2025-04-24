@@ -7,7 +7,7 @@
 
 |Documento|Fecha de última modificación|
 |---------|----------------------------|
-|[Estándar (PDF)](CFDI/Version%204.0/Anexo20_2022.pdf) |13/01/2022 (Versión publicada en el DOF)|
+|[Estándar (PDF)](Version%204.0/Anexo20_2022.pdf) |13/01/2022 (Versión publicada en el DOF)|
 |[Esquema (XSD)]() | 04/06/2024|
 |[Secuencia de cadena original (XSLT)]()| 17/06/2024|
 |[Patrón de datos (XSD)]()| 22/04/2024|
