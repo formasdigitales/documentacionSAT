@@ -385,9 +385,9 @@
     <summary><strong>01. Instituciones educativas privadas (Versión 1.0 Revisión A)</strong></summary>
     <p>Complemento concepto para la expedición de comprobantes fiscales por parte de instituciones educativas privadas, para los efectos del artículo primero y cuarto del decreto por el que se otorga un estímulo fiscal a las personas físicas en relación con los pagos por servicios educativos.</p>
     <ul>
-        <li><a href="" target="_blank">Estándar</a></li>
-        <li><a href="" target="_blank">Esquema</a></li>
-        <li><a href="" target="_blank">Secuencia cadena original (XSLT)</a></li>
+        <li><a href="Complementos%20concepto/001%20-%20Instituciones%20educativas%20privadas/Version%201.0%20revA/iedu.pdf" target="_blank">Estándar</a></li>
+        <li><a href="Complementos%20concepto/001%20-%20Instituciones%20educativas%20privadas/Version%201.0%20revA/iedu.xsd" target="_blank">Esquema</a></li>
+        <li><a href="Complementos%20concepto/001%20-%20Instituciones%20educativas%20privadas/Version%201.0%20revA/iedu.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
     </ul>
 </details></br>
 
@@ -396,8 +396,8 @@
     <summary><strong>02. Venta de vehículos (Versión 1.1 Revisión A)</strong></summary>
     <p>Complemento concepto para la expedición de comprobantes fiscales por parte de instituciones educativas privadas, para los efectos del artículo primero y cuarto del decreto por el que se otorga un estímulo fiscal a las personas físicas en relación con los pagos por servicios educativos.</p>
     <ul>
-        <li><a href="" target="_blank">Estándar</a></li>
-        <li><a href="" target="_blank">Esquema</a></li>
-        <li><a href="" target="_blank">Secuencia cadena original (XSLT)</a></li>
+        <li><a href="Complementos%20concepto/002%20-%20Venta%20de%20vehículos/Version%201.1%20revA/ventavehiculos11.pdf" target="_blank">Estándar</a></li>
+        <li><a href="Complementos%20concepto/002%20-%20Venta%20de%20vehículos/Version%201.1%20revA/ventavehiculos11.xsd" target="_blank">Esquema</a></li>
+        <li><a href="Complementos%20concepto/002%20-%20Venta%20de%20vehículos/Version%201.1%20revA/ventavehiculos11.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
     </ul>
 </details></br>
