@@ -7,24 +7,24 @@
 
 |Documento|Fecha de última modificación|
 |---------|----------------------------|
-|[Estándar (PDF)](Version%204.0/Anexo20_2022.pdf){:target="_blank"}|13/01/2022 (Versión publicada en el DOF)|
-|[Esquema (XSD)]() | 04/06/2024|
-|[Secuencia de cadena original (XSLT)]()| 17/06/2024|
-|[Patrón de datos (XSD)]()| 22/04/2024|
-|[Catálogo de datos (XSD)]()| 13/12/2024|
-|[Catálogos (XLS)]()| 09/04/2025|
-|[Matriz de errores (XLS)]()| 13/12/2024|
-|[Preguntas frecuentes]()|08/03/2023|
+|[Estándar (PDF)](Version%204.0/Anexo20_2022.pdf)|13/01/2022 (Versión publicada en el DOF)|
+|[Esquema (XSD)](Version%204.0/cfdv40.xsd) | 04/06/2024|
+|[Secuencia de cadena original (XSLT)](Version%204.0/cadenaoriginal_4_0.xslt)| 17/06/2024|
+|[Patrón de datos (XSD)](Version%204.0/)| 22/04/2024|
+|[Catálogo de datos (XSD)](Version%204.0/catCFDI.xsd)| 13/12/2024|
+|[Catálogos (XLS)](Version%204.0/tdCFDI.xsd)| 09/04/2025|
+|[Matriz de errores (XLS)](Version%204.0/Matriz%20de%20Errores/MatrizDeErrores_CFDI_v40_20241213.xls)| 13/12/2024|
+|[Preguntas frecuentes](Version%204.0/Preguntas%20frecuentes/PregFrecCFDIVer4_0.pdf)|08/03/2023|
 
 
 ### Guías de llenado para la versión 4.0 del CFDI:
 
-- [Factura (Anexo 20)]()
-- [Facturas por Derechos]()
-- [Factura global]()
-- [Recibo de nómina]()
-- [Complemento de pagos]()
-- [Factura de comercio exterior]()
+- [Factura (Anexo 20)](Version%204.0/Guias%20de%20llenado/Anexo_20_Guia_de_llenado_CFDI.pdf)
+- [Facturas por Derechos](Version%204.0/Guias%20de%20llenado/Guia_llenadoCFDI_DPA.pdf)
+- [Factura global](Version%204.0/Guias%20de%20llenado/Guia_llenado_CFDI_global.pdf)
+- [Recibo de nómina](Version%204.0/Guias%20de%20llenado/Guia_llenado_Nomina.pdf)
+- [Complemento de pagos](Version%204.0/Guias%20de%20llenado/Guia_llenado_pagos.pdf)
+- [Factura de comercio exterior](Version%204.0/Guias%20de%20llenado/Guia_complemento_Comercio_Exterior.pdf)
 
 
 </br></br>
@@ -36,10 +36,9 @@
     <summary><strong>001. Aerolíneas (Versión 1.0 Revisión A)</strong></summary>
     <p>Complemento al Comprobante Fiscal Digital por Internet (CFDI) para el manejo de datos de aerolíneas para pasajeros.</p>
     <ul>
-        <li><a href="" target="_blank">Estándar</a></li>
-        <li><a href="" target="_blank">Esquema</a></li>
-        <li><a href="" target="_blank">Secuencia cadena original (XSLT)</a></li>
-        <li><a href="" target="_blank">Catálogos</a></li>
+        <li><a href="Complementos/001%20-%20Aerolíneas/Version%201.0%20revA/aerolineas.pdf" target="_blank">Estándar</a></li>
+        <li><a href="Complementos/001%20-%20Aerolíneas/Version%201.0%20revA/aerolineas.xsd" target="_blank">Esquema</a></li>
+        <li><a href="Complementos/001%20-%20Aerolíneas/Version%201.0%20revA/aerolineas.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
     </ul>
 </details></br>
 
