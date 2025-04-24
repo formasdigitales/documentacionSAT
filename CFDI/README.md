@@ -48,18 +48,18 @@
     <p>Complemento para incorporar al Comprobante Fiscal Digital por Internet (CFDI), la información relacionada a los bienes y/o mercancías, ubicaciones de origen, puntos intermedios y destinos, así como lo referente al medio por el que se transportan; que circulen por vía terrestre, férrea, aérea o naveguen por vía marítima; además de incluir el traslado de hidrocarburos y petrolíferos.</p>
     <ul>
         <li><a href="https://verificacfdi.facturaelectronica.sat.gob.mx/verificaccp/default.aspx" target="_blank">Verifica el complemento:</a> Te permite verificar el complemento Carta Porte y te da la certeza de que se encuentra registrado en los controles del SAT.</li>
-        <li><a href="" target="_blank">Estándar del complemento Carta Porte (PDF)</a></li>
-        <li><a href="" target="_blank">Esquema del complemento Carta Porte (XSD)</a></li>
-        <li><a href="" target="_blank">Secuencia cadena original (XSLT)</a></li>
-        <li><a href="" target="_blank">Matriz de errores (XLS)</a></li>
-        <li><a href="" target="_blank">Esquema de los catálogos (XSD)</a></li>
-        <li><a href="" target="_blank">Catálogos del complemento (XLSX)</a></li>        
+        <li><a href="Complementos/002%20-%20Carta%20Porte/Versión%203.1/Carta_Porte_31.pdf" target="_blank">Estándar del complemento Carta Porte (PDF)</a></li>
+        <li><a href="Complementos/002%20-%20Carta%20Porte/Versión%203.1/CartaPorte31.xsd" target="_blank">Esquema del complemento Carta Porte (XSD)</a></li>
+        <li><a href="Complementos/002%20-%20Carta%20Porte/Versión%203.1/CartaPorte31.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
+        <li><a href="Complementos/002%20-%20Carta%20Porte/Versión%203.1/Complementos/002%20-%20Carta%20Porte/Versión%203.1/Matriz%20de%20Errores/Matriz_Errores_CCP_V31.xls" target="_blank">Matriz de errores (XLS)</a></li>
+        <li><a href="Complementos/002%20-%20Carta%20Porte/Versión%203.1/catCartaPorte.xsd" target="_blank">Esquema de los catálogos (XSD)</a></li>
+        <li><a href="Complementos/002%20-%20Carta%20Porte/Versión%203.1/Catálogos%20del%20complemento/CatalogosCartaPorte31.zip" target="_blank">Catálogos del complemento (XLSX en zip)</a></li>        
         <li>Instructivos de llenado:
             <ul>
-                <li><a href="" target="_blank">Autotransporte</a></li>
-                <li><a href="" target="_blank">Marítimo</a></li>
-                <li><a href="" target="_blank">Aéreo</a></li>
-                <li><a href="" target="_blank">Ferroviario</a></li>
+                <li><a href="Complementos/002%20-%20Carta%20Porte/Versión%203.1/Instructivos%20de%20llenado/Instructivo_ComplementoCartaPorte_Autotransporte_31.pdf" target="_blank">Autotransporte</a></li>
+                <li><a href="Complementos/002%20-%20Carta%20Porte/Versión%203.1/Instructivos%20de%20llenado/Instructivo_ComplementoCartaPorte_Maritimo_31.pdf" target="_blank">Marítimo</a></li>
+                <li><a href="Complementos/002%20-%20Carta%20Porte/Versión%203.1/Instructivos%20de%20llenado/Instructivo_ComplementoCartaPorte_Aereo_31.pdf" target="_blank">Aéreo</a></li>
+                <li><a href="Complementos/002%20-%20Carta%20Porte/Versión%203.1/Instructivos%20de%20llenado/Instructivo_ComplementoCartaPorte_Ferroviario_31.pdf" target="_blank">Ferroviario</a></li>
             </ul>
         </li>
     </ul>
@@ -70,10 +70,10 @@
     <summary><strong>003. Certificado de destrucción (Versión 1.0 Revisión A)</strong></summary>
     <p>Complemento para incluir los datos de identificación de los CFDI generados en Registro Fiscal.</p>
     <ul>        
-        <li><a href="" target="_blank">Estándar</a></li>
-        <li><a href="" target="_blank">Esquema (XSD)</a></li>
-        <li><a href="" target="_blank">Secuencia cadena original (XSLT)</a></li>
-        <li><a href="" target="_blank">Catálogos</a></li>
+        <li><a href="Complementos/003%20-%20Certificado%20de%20destrucción/Version%201.0%20revA/certificadodedestruccion.pdf" target="_blank">Estándar</a></li>
+        <li><a href="Complementos/003%20-%20Certificado%20de%20destrucción/Version%201.0%20revA/certificadodedestruccion.xsd" target="_blank">Esquema (XSD)</a></li>
+        <li><a href="Complementos/003%20-%20Certificado%20de%20destrucción/Version%201.0%20revA/certificadodedestruccion.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
+        <li><a href="Complementos/003%20-%20Certificado%20de%20destrucción/Version%201.0%20revA/0909.AGSC.ACGSTME.PD.Catalogo.certificado.destruccion,0.pdf" target="_blank">Catálogos</a></li>
     </ul>
 </details></br>
 
@@ -82,9 +82,9 @@
     <summary><strong>004. Certificado de destrucción (Versión 1.0)</strong></summary>
     <p>Complemento para incorporar la información que integra el certificado de destrucción de vehículos destruidos por los centros de destrucción autorizados por el SAT.</p>
     <ul>        
-        <li><a href="" target="_blank">Estándar</a></li>
-        <li><a href="" target="_blank">Esquema (XSD)</a></li>
-        <li><a href="" target="_blank">Secuencia cadena original (XSLT)</a></li>
+        <li><a href="Complementos/004%20-%20CFDI%20Registro%20fiscal/Version%201.0/0874.AGSC.ACGSTME.PD.ComplementoCFDIRegistroFiscal1.0,0.pdf" target="_blank">Estándar</a></li>
+        <li><a href="Complementos/004%20-%20CFDI%20Registro%20fiscal/Version%201.0/cfdiregistrofiscal.xsd" target="_blank">Esquema (XSD)</a></li>
+        <li><a href="Complementos/004%20-%20CFDI%20Registro%20fiscal/Version%201.0/cfdiregistrofiscal.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
     </ul>
 </details></br>
 
@@ -93,13 +93,13 @@
     <summary><strong>005. Comercio exterior (Versión 2.0)</strong></summary>
     <p>Complemento para incorporar la información en caso de exportación definitiva de mercancías.</p>
     <ul>        
-        <li><a href="" target="_blank">Estándar</a></li>
-        <li><a href="" target="_blank">Esquema (XSD)</a></li>
-        <li><a href="" target="_blank">Secuencia cadena original (XSLT)</a></li>
-        <li><a href="" target="_blank">Catálogos (XLS)</a></li>
-        <li><a href="" target="_blank">Esquema de catálogos (XSD)</a></li>
-        <li><a href="" target="_blank">Matriz de errores (XLS)</a></li>
-        <li><a href="" target="_blank">Guía de llenado (PDF)</a></li>
+        <li><a href="Complementos/005%20-%20Comercio%20Exterior/Version%202.0/EstandarComercioExterior_v20.pdf" target="_blank">Estándar</a></li>
+        <li><a href="Complementos/005%20-%20Comercio%20Exterior/Version%202.0/ComercioExterior20.xsd" target="_blank">Esquema (XSD)</a></li>
+        <li><a href="Complementos/005%20-%20Comercio%20Exterior/Version%202.0/ComercioExterior20.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
+        <li><a href="Complementos/005%20-%20Comercio%20Exterior/Version%202.0/Catálogos%20del%20complemento" target="_blank">Catálogos (XLS)</a></li>
+        <li><a href="Complementos/005%20-%20Comercio%20Exterior/Version%202.0/catComExt.xsd" target="_blank">Esquema de catálogos (XSD)</a></li>
+        <li><a href="Complementos/005%20-%20Comercio%20Exterior/Version%202.0/Matriz%20de%20Errores/Matriz_de_Errores_CCE_v2.0.xls" target="_blank">Matriz de errores (XLS)</a></li>
+        <li><a href="Complementos/005%20-%20Comercio%20Exterior/Guía%20de%20llenado/Guia_complemento_Comercio_Exterior.pdf" target="_blank">Guía de llenado (PDF)</a></li>
     </ul>
 </details></br>
 
