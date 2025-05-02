@@ -288,7 +288,7 @@
         <li><a href="Complementos/019%20-%20Recibo%20de%20pago%20de%20nómina/Version%201.2%20Revision%20D/Estandar_nomina12_21022025_a1e0544e71.pdf" target="_blank">Estándar</a></li>
         <li><a href="Complementos/019%20-%20Recibo%20de%20pago%20de%20nómina/Version%201.2%20Revision%20D/nomina12.xsd" target="_blank">Esquema (XSD)</a></li>
         <li><a href="Complementos/019%20-%20Recibo%20de%20pago%20de%20nómina/Version%201.2%20Revision%20D/nomina12.xslt" target="_blank">Secuencia cadena original (XSLT)</a></li>
-        <li><a href="Complementos/019%20-%20Recibo%20de%20pago%20de%20nómina/Version%201.2%20Revision%20D/cat_Nomina_b090dfb838.xls" target="_blank">Catálogos (XLS)</a></li>
+        <li><a href="Complementos/019%20-%20Recibo%20de%20pago%20de%20nómina/Version%201.2%20Revision%20D/cat_Nomina_b35829b850.xls" target="_blank">Catálogos (XLS)</a></li>
         <li><a href="Complementos/019%20-%20Recibo%20de%20pago%20de%20nómina/Version%201.2%20Revision%20D/catNomina.xsd" target="_blank">Esquema de catálogos (XSD)</a></li>
         <li><a href="Complementos/019%20-%20Recibo%20de%20pago%20de%20nómina/Version%201.2%20Revision%20D/21022025_Matriz_Errores_Nomina_v12_Rev_D_d2be64697b.xls" target="_blank">Matriz de errores (XLS)</a></li>
         <li><a href="Complementos/019%20-%20Recibo%20de%20pago%20de%20nómina/Version%201.2%20Revision%20D/Guia_llenado_Nomina.pdf" target="_blank">Guía de llenado (PDF)</a></li>
